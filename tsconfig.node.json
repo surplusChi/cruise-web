@@ -11,5 +11,10 @@
     "composite": true,
     "module": "ESNext",
     "types": ["node"]
-  }
+  },
+  "exclude": [
+    "vue",
+    "axios",
+    "element-plus"
+  ]
 }
